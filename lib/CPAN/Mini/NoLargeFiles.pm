@@ -14,7 +14,7 @@ use parent 'CPAN::Mini';
 
 1;
 
-# ABSTRACT:
+# ABSTRACT: Create a CPAN mirror excluding files that are too large
 
 =for Pod::Coverage ^(.*)$
 
