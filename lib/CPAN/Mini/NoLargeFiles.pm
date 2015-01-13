@@ -31,6 +31,10 @@ To specify size:
 
 =head1 DESCRIPTION
 
+There are files uploaded to CPAN that are quite large (over 100MB). For those
+like me who are often on a limited mobile data plan, or using a miniscule-sized
+SSD, this L<CPAN::Mini> subclass might be useful.
+
 This is a thin wrapper for L<LWP::UserAgent::Patch::FilterMirrorMaxSize>, so
 instead of:
 
