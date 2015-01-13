@@ -47,4 +47,9 @@ you can just do:
 
 Use the patch directly instead of this subclass (see Description).
 
+
+=head1 SEE ALSO
+
+L<http://blogs.perl.org/users/steven_haryanto/2014/06/skipping-large-files-when-mirroring-your-mini-cpan.html>
+
 =cut
